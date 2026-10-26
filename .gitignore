@@ -1,0 +1,3 @@
+# Worksheets and image assets are not part of the code
+*.png
+.DS_Store
